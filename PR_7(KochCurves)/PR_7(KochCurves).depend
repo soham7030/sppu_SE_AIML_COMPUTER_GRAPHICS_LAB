@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1682671254 source:e:\computer graphics(aditi)\pr_7(kochcurves)\main.cpp
+	<iostream>
+	<math.h>
+	<time.h>
+	<GL/glut.h>
+

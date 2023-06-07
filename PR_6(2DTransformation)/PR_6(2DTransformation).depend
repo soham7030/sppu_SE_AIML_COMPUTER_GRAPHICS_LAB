@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1682503452 source:e:\computer graphics(aditi)\pr_6(2dtransformation)\main.cpp
+	<iostream>
+	<math.h>
+	<time.h>
+	<GL/glut.h>
+	<vector>
+

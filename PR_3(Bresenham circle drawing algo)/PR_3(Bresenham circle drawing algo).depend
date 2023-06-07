@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1682569771 source:e:\computer graphics(aditi)\pr_3(bresenham circle drawing algo)\main.cpp
+	<GL/glut.h>
+	<iostream>
+

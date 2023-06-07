@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1682501337 source:e:\computer graphics(aditi)\pr_4(polygonfillmethods)\main.cpp
+	<iostream>
+	<math.h>
+	<GL/glut.h>
+

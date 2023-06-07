@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1682502734 source:e:\computer graphics(aditi)\pr_5(cohenpolygonclipping)\main.cpp
+	<iostream>
+	<math.h>
+	<time.h>
+	<GL/glut.h>
+

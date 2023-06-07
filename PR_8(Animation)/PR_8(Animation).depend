@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1682507411 source:e:\computer graphics(aditi)\pr_8(animation)\main.cpp
+	<iostream>
+	<math.h>
+	<time.h>
+	<GL/glut.h>
+
